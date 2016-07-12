@@ -55,6 +55,7 @@
 - [How to recover admin password](http://stackoverflow.com/questions/27557208/recover-admin-password-and-email-odoo-server)
 - [V9 - Enable a currency when installing a module](https://www.odoo.com/nl_NL/forum/help-1/question/v9-enable-a-currency-when-installing-a-module-95260)
 - [ODOO V9 Features](https://www.odoo.com/de_DE/forum/hilfe-1/question/odoo-v9-features-81815)
+
 #### blogs
 - [odoo offcial blog](https://www.odoo.com/blog)
 - [http://ludwiktrammer.github.io/](http://ludwiktrammer.github.io/)
