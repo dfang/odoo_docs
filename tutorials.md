@@ -37,6 +37,8 @@
 - [An Odoo launcher that discovers addons automatically](https://pypi.python.org/pypi/odoo-autodiscover)
 - [setuptools-odoo:a helper library to distribute odoo addons as python packages](https://pypi.python.org/pypi/setuptools-odoo)
 - [watchmedo](http://renjie.me/2016/01/15/odoo-addons-xml-develop-debug-auto-update/)
+
+
 ### Links
 - [Odoo Apps, Modules & Licensing FAQ](https://www.odoo.com/forum/how-to/miscellaneous-14/odoo-apps-modules-licensing-faq-55449)
 - [Defining custom settings in Odoo](http://ludwiktrammer.github.io/odoo/custom-settings-odoo.html)
